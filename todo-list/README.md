@@ -11,7 +11,7 @@ https://danamat07.github.io/web-dev-samples/todo-list/todo-list.html
   - **HTML:** Structures the TO-DO list interface.
   - **CSS:** Styles the layout and design.
   - **JavaScript:** Handles task addition, deletion, and rendering.
-  - **Visual Studio Code (VSCode):** Used as the code editor for development.
+  - **Visual Studio Code (VSCode):** Code editor for development.
 
 ## Features
   > Add tasks with a name and due date.
